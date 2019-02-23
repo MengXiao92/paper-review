@@ -1,1 +1,6 @@
 
+model compression
+1. Model compression as constrained optimization, with application to neural nets. Part I: general framework
+2. Model compression as constrained optimization, with application to neural nets. Part II: quantization.
+
+A Survey of Model Compression and Acceleration for Deep Neural Networks
